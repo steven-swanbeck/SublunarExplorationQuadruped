@@ -9,7 +9,7 @@ The miniature quadruped is capable of remote-controlled traversal of treacherous
 
 ![20220227_140608 (1)](https://user-images.githubusercontent.com/99771915/181852512-e29595dc-98a6-49e3-afd2-a8528460443b.jpg)
 
-## Example LIDAR map of me sitting at my desk in a small room throwing up a peace sign
+## Example LIDAR map of me sitting at my desk in a small room holding up a 'peace' sign
 
 ![PeaceLidar](https://user-images.githubusercontent.com/99771915/181852523-9d33eba7-144a-4b6e-9350-17086781a8d8.PNG)
 ***
